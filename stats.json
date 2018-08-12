@@ -1,0 +1,64 @@
+{
+  "assetsByChunkName": {
+    "path---a-markdown-page": [
+      "path---a-markdown-page-d5abb809e013f92c7bca.js",
+      "path---a-markdown-page-d5abb809e013f92c7bca.js.map"
+    ],
+    "component---src-layouts-index-tsx": [
+      "component---src-layouts-index-tsx-ee2558ec2e8aa7d1ed04.js",
+      "component---src-layouts-index-tsx-ee2558ec2e8aa7d1ed04.js.map"
+    ],
+    "path---": [
+      "path----0415ce96230e665e0c04.js",
+      "path----0415ce96230e665e0c04.js.map"
+    ],
+    "path---test": [
+      "path---test-a0e39f21c11f6a62c5ab.js",
+      "path---test-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---page-2": [
+      "path---page-2-a0e39f21c11f6a62c5ab.js",
+      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-page-2-tsx": [
+      "component---src-pages-page-2-tsx-7a4bbdd295a1305c17c2.js",
+      "component---src-pages-page-2-tsx-7a4bbdd295a1305c17c2.js.map"
+    ],
+    "commons": [
+      "commons-5e89e9c69e2aa6c9b1c4.js",
+      "commons-5e89e9c69e2aa6c9b1c4.js.map"
+    ],
+    "component---src-pages-404-tsx": [
+      "component---src-pages-404-tsx-f016dd7e40ecd41b4c89.js",
+      "component---src-pages-404-tsx-f016dd7e40ecd41b4c89.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-index-tsx": [
+      "component---src-pages-index-tsx-28b9d7ead79717e23815.js",
+      "component---src-pages-index-tsx-28b9d7ead79717e23815.js.map"
+    ],
+    "app": [
+      "app-51a94ec6f9fca548cfa1.js",
+      "app-51a94ec6f9fca548cfa1.js.map"
+    ],
+    "component---src-templates-page-tsx": [
+      "component---src-templates-page-tsx-efab5e2b657a7a8a8275.js",
+      "component---src-templates-page-tsx-efab5e2b657a7a8a8275.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-test-tsx": [
+      "component---src-pages-test-tsx-892d176a04235d88f983.js",
+      "component---src-pages-test-tsx-892d176a04235d88f983.js.map"
+    ]
+  }
+}
