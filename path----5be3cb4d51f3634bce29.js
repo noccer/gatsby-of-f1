@@ -1,2 +1,2 @@
-webpackJsonp([60335399758886],{213:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Eff Wun Point 5",description:"Alter the history of F1 by deactivating drivers or changing the points schema"}}},layoutContext:{}}}});
+webpackJsonp([60335399758886],{216:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Eff Wun Point 5",description:"Alter the history of F1 by deactivating drivers or changing the points schema"}}},layoutContext:{}}}});
 //# sourceMappingURL=path----5be3cb4d51f3634bce29.js.map
